@@ -3,3 +3,6 @@ config BOARD_LENOVO_X230
 
 config BOARD_LENOVO_X230T
 	bool "ThinkPad X230t"
+
+config BOARD_LENOVO_X230_FHD
+	bool "ThinkPad X230 Nitrocaster Full HD mod"
